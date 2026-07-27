@@ -1,0 +1,42 @@
+{
+  "compilerOptions": {
+    "allowImportingTsExtensions": true,
+    "isolatedModules": true,
+    "jsx": "react-jsx",
+    "lib": ["ESNext", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "noEmit": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUncheckedSideEffectImports": false,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "target": "ES2022",
+    "types": [
+      "vite/client",
+      "@vitejs/plugin-rsc/types",
+      "storybook-addon-vis/matcher"
+    ],
+    "useDefineForClassFields": true,
+    "verbatimModuleSyntax": true,
+    "erasableSyntaxOnly": true,
+    "paths": {
+      "sb/*": ["./.storybook/*"],
+      "dsx-docs/*": ["./src/docs/*"],
+      "dsx-components/*": ["./src/components/*"],
+      "dsx-themes/*": ["./src/themes/*"]
+    }
+  },
+  "include": [
+    "src",
+    ".storybook",
+    "vite-env.d.ts",
+    "*.ts",
+    "*.mjs",
+    "*.tsx",
+    "*.stylex.ts"
+  ]
+}

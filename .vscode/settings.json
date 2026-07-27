@@ -1,0 +1,31 @@
+{
+  "js/ts.tsdk.path": "node_modules/typescript/lib",
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#0032a9",
+    "activityBar.background": "#0032a9",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#000000",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "activityBarTop.activeBackground": "#0032a9",
+    "activityBarTop.background": "#0032a9",
+    "activityBarTop.foreground": "#e7e7e7",
+    "activityBarTop.inactiveForeground": "#e7e7e799",
+    "commandCenter.border": "#e7e7e799",
+    "commandCenter.foreground": "#e7e7e7",
+    "sash.hoverBorder": "#0032a9",
+    "statusBar.background": "#002376",
+    "statusBar.debuggingBackground": "#002376",
+    "statusBar.debuggingForeground": "#e7e7e7",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#0032a9",
+    "statusBarItem.remoteBackground": "#bf0039",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#002376",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#00237699",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#002376",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}

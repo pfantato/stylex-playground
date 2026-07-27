@@ -1,0 +1,18 @@
+# dependencies
+node_modules
+
+# Outputs
+storybook-static
+dist
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Snapshots
+**/__vis__/**/__diffs__
+**/__vis__/**/__results__
+**/__vis__/local

@@ -54,7 +54,7 @@
     "rollup-plugin-jsx-remove-attributes": "^3.1.2",
     "rollup-plugin-node-externals": "^9.0.1",
     "shx": "^0.4.0",
-    "storybook": "^10.5.4",
+    "storybook": "^10.6.2",
     "storybook-addon-vis": "^4.2.3",
     "typescript": "^6.0.3",
     "typescript-eslint": "^8.65.0",
